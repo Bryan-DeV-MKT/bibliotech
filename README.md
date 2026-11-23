@@ -63,3 +63,12 @@ src/main/java/br/uniube/biblioteca/
 src/test/java/br/uniube/biblioteca/service/
   EmprestimoServiceTest (8), LivroServiceTest (3), LeitorServiceTest (3)
 ```
+
+
+## Links do projeto
+
+| Item | Link |
+|---|---|
+| Protótipo navegável (Figma) | https://www.figma.com/proto/8dWOndUaWZF8ogJdSZgusP?node-id=3-5&starting-point-node-id=3%3A5 |
+| Arquivo do Figma (telas e componentes) | https://www.figma.com/design/8dWOndUaWZF8ogJdSZgusP |
+| Quadro do backlog (GitHub Project) | https://github.com/users/Bryan-DeV-MKT/projects/1 |
